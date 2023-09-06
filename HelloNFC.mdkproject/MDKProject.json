@@ -1,0 +1,10 @@
+{
+  "AppDisplayName": "Hello NFC",
+  "AppName": "HelloNFC",
+  "AppVersion": "1.0.0",
+  "BundleID": "com.sap.mdk.demo.native.adam",
+  "Externals": [],
+  "NSPlugins": [],
+  "NPMPlugins": [],
+  "UrlScheme": "HelloNFC"
+}
